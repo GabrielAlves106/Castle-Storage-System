@@ -67,7 +67,7 @@ def logar_sistema(Senha,Login):
     else:
         return "Acesso Negado"
         #sys.exit()
-    
-        
+def oi():
+    pass
 
     
